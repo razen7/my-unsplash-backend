@@ -1,0 +1,16 @@
+{
+  "name": "my-unsplash",
+  "version": "1.0.0",
+  "description": "2nd challenge from dev.io",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "author": "Raz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.21"
+  }
+}
